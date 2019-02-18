@@ -71,6 +71,5 @@ public class MainActivity extends AppCompatActivity {
         });
 
         generateTimesTable(10);
-
     }
 }
