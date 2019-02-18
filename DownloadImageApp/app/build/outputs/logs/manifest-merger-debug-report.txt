@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8c244c7704ad69145ac98ad7ce637f3e/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3083e4d1337b546515f1bb0a8ad1648b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b3273e321f38038e8a872305374ce76d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/3bfa9467c89beeac95c6e301f3a268a6/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/8da8e41fce327a75ac4350ae43235aec/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2a1480f148df007cef3a6d660dd210b2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/1d6a600062ba5dc2ef1c0a927089a4cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/662c82d6d2dcc31842d6abd095404c39/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/7fe3921ce369537ea1913ae853a2612b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/06e79e65a2876d1a3f6258acdc0099d8/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/150f358b4dd6bc7afe26ea92ec25cd38/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a9812efb2e0fa27a909287076322152c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/5c9769a05fce40311cb755a1fec011c8/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/de215f311e136e7097d38ed0defa525f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/076b23a6a155a6f00c121198833722f4/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d457104c670abeb7a5574f2e38de408d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/094eab065eea1eed1342c6e5745ba06f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/21161585e25ce4c1a958ba72d397835d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/aa3406fd50169539ba1484df637b8656/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/160015059dae79f48abbfba542383509/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/0b037a4171cc2013645d585f36d438a0/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0bc824cf35eb42f0010ab286d92a78d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a055d5cd373f9930049ea7a1806d609/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d229e1485aec64749c4eccb27e10a98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d34a16c592eb55410594f4ab43f6406/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:8:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3083e4d1337b546515f1bb0a8ad1648b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3083e4d1337b546515f1bb0a8ad1648b/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.aayush.downloadimageapp.MainActivity
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:14:9-32:20
+	android:label
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:host:gizmos+data:host:www.example.com+data:pathPrefix:/gizmos+data:scheme:example+data:scheme:http
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:17:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:18:25-66
+action#android.intent.action.VIEW
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:20:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:21:27-75
+data
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:23:17-25:52
+	android:host
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:24:21-51
+	android:scheme
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:23:23-44
+	android:pathPrefix
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:25:21-49
+category#android.intent.category.LAUNCHER
+ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8c244c7704ad69145ac98ad7ce637f3e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8c244c7704ad69145ac98ad7ce637f3e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3083e4d1337b546515f1bb0a8ad1648b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3083e4d1337b546515f1bb0a8ad1648b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b3273e321f38038e8a872305374ce76d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/b3273e321f38038e8a872305374ce76d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/3bfa9467c89beeac95c6e301f3a268a6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/3bfa9467c89beeac95c6e301f3a268a6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/8da8e41fce327a75ac4350ae43235aec/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/8da8e41fce327a75ac4350ae43235aec/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2a1480f148df007cef3a6d660dd210b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2a1480f148df007cef3a6d660dd210b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/1d6a600062ba5dc2ef1c0a927089a4cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/1d6a600062ba5dc2ef1c0a927089a4cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/662c82d6d2dcc31842d6abd095404c39/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/662c82d6d2dcc31842d6abd095404c39/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/7fe3921ce369537ea1913ae853a2612b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/7fe3921ce369537ea1913ae853a2612b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/06e79e65a2876d1a3f6258acdc0099d8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/06e79e65a2876d1a3f6258acdc0099d8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/150f358b4dd6bc7afe26ea92ec25cd38/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/150f358b4dd6bc7afe26ea92ec25cd38/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a9812efb2e0fa27a909287076322152c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a9812efb2e0fa27a909287076322152c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/5c9769a05fce40311cb755a1fec011c8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/5c9769a05fce40311cb755a1fec011c8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/de215f311e136e7097d38ed0defa525f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/de215f311e136e7097d38ed0defa525f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/076b23a6a155a6f00c121198833722f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/076b23a6a155a6f00c121198833722f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d457104c670abeb7a5574f2e38de408d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d457104c670abeb7a5574f2e38de408d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/094eab065eea1eed1342c6e5745ba06f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/094eab065eea1eed1342c6e5745ba06f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/21161585e25ce4c1a958ba72d397835d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/21161585e25ce4c1a958ba72d397835d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/aa3406fd50169539ba1484df637b8656/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/aa3406fd50169539ba1484df637b8656/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/160015059dae79f48abbfba542383509/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/160015059dae79f48abbfba542383509/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/0b037a4171cc2013645d585f36d438a0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aayush/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/0b037a4171cc2013645d585f36d438a0/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0bc824cf35eb42f0010ab286d92a78d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0bc824cf35eb42f0010ab286d92a78d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a055d5cd373f9930049ea7a1806d609/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a055d5cd373f9930049ea7a1806d609/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d229e1485aec64749c4eccb27e10a98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d229e1485aec64749c4eccb27e10a98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d34a16c592eb55410594f4ab43f6406/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/aayush/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d34a16c592eb55410594f4ab43f6406/AndroidManifest.xml:20:5-44
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aayush/AndroidStudioProjects/DownloadImageApp/app/src/main/AndroidManifest.xml
